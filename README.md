@@ -37,4 +37,8 @@ The "Data Visualization with Python" section of the IBM Data Science Professiona
  - Matplotlib for basic and advanced data visualization
  - Seaborn for advanced data visualization
  - Folium for geospatial data visualization
- - Plotly for creating interactive dashboards with Dash.
+ - Plotly for interactive visualization and dashboard creation
+ - Dash for building web-based dashboard applications.
+
+### Dataset
+
