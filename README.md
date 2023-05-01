@@ -26,3 +26,4 @@ Showcase of Data Visualisation skills using Python [Achieved 100%]
 - README.md
 
 ### Executive Summary
+The "Data Visualization with Python" section of the IBM Data Science Professional Certificate provided a comprehensive introduction to data visualization tools and techniques using Matplotlib, Seaborn, and Folium. The course covered a range of visualization types, including line plots, area plots, histograms, bar charts, pie charts, box plots, scatter plots, and bubble plots. Additionally, advanced visualizations such as waffle charts, word clouds, and choropleth maps were introduced. The course also provided hands-on experience with creating dashboards using the Plotly and Dash libraries.
