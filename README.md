@@ -3,7 +3,7 @@
 Showcase of Data Visualisation skills using Python [Achieved 100%]
 
 <p align="center">
-  <img width="150" height="150" src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data_Analysis_w_Python.png">
+  <img width="150" height="150" src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Data_Visual_w_Python.png">
 </p>
 
 ## Table of Contents
