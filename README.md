@@ -23,6 +23,7 @@ Showcase of Data Visualisation skills using Python [Achieved 100%]
   - 04 - Waffle Charts Word Clouds and Regression Plots.ipynb
   - 05 - Generating Maps in Python.ipynb
   - 06 - Plotly Basics.ipynb
+  - 07 - Plotly and Dash Final Project.py
 - README.md
 
 ### Executive Summary
