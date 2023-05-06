@@ -58,3 +58,15 @@ This Python notebook explored the Canadian Immigration data from 1980 to 2013, a
 |<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis03-Icelandic%20Immigrants%20to%20Canada.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis04-Immigration%20Trend%20of%20Top%205%20Countries.png" width="100%" height="100%"> | 
 |:--:|:--:| 
 | *Analyzing the effect of Iceland's Financial Crisis* | *Top 5 countries that contribued the most immigrants to Canada from 1980 to 2013* |
+
+#### 03 - Pie Charts Box Plots Scatter Plots and Bubble Plots.ipynb
+
+This Python notebook explored the Matplotlib library to create pie charts, box plots, scatter plots, and bubble charts. Using the Immigration to Canada dataset, visualizations were created to display the data in various formats.
+
+|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis05-Immigrants%20from%20China%20and%20India.png" width="100%" height="100%">| 
+|:--:| 
+| *"A side by side comparison of the box plot with the line plot of China and India's immigration using subplots"* |
+
+
+
+
