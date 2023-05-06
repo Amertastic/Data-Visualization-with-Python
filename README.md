@@ -43,3 +43,11 @@ The "Data Visualization with Python" section of the IBM Data Science Professiona
 
 ### Dataset
 
+#### 01 - Matplotlib and Line Plots.ipynb
+
+This Python notebook covered creating data visualization using various Python libraries, including Matplotlib and line plots. It also provided a brief introduction to the pandas library.
+
+|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis02-Immigration%20from%20China%20and%20India.png" width="100%" height="100%"> | 
+|:--:|:--:| 
+| * A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
+
