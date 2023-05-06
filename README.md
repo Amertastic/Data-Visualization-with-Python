@@ -83,8 +83,12 @@ This Python notebook explored the Canadian immigration data from 1980 to 2013 us
 
 #### 05 - Generating Maps in Python.ipynb
 
-This Python notebook explores geospatial data visualization with Folium by creating maps with markers and choropleth maps. Datasets used include San Francisco Police Department Incidents for 2016 and Canadian Immigration data from 1980 to 2013.
+This Python notebook explores geospatial data visualization with Folium by creating maps with markers and choropleth maps. 
 
 |<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis09-Generating%20Maps%20In%20Python.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis10-Generating%20Maps%20In%20Python.png" width="100%" height="100%"> | 
 |:--:|:--:| 
 | *"Superimpose the locations of the crimes onto the map"* | *"Each cluster is then represented by the number of crimes in each neighborhood. These clusters can be thought of as pockets of San Francisco which you can then analyze separately"* |
+
+Datasets used include San Francisco Police Department Incidents for 2016 and Canadian Immigration data from 1980 to 2013.
+
+
