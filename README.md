@@ -49,5 +49,12 @@ This Python notebook covered creating data visualization using various Python li
 
 |<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis02-Immigration%20from%20China%20and%20India.png" width="100%" height="100%"> | 
 |:--:|:--:| 
-| * A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
+| *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
 
+#### 02 - Area Plots Histograms and Bar Charts.ipynb
+
+This Python notebook explored the Canadian Immigration data from 1980 to 2013, analyzing it through area plots, histograms, and bar charts using Matplotlib.
+
+|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis03-Icelandic%20Immigrants%20to%20Canada.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis04-Immigration%20Trend%20of%20Top%205%20Countries.png" width="100%" height="100%"> | 
+|:--:|:--:| 
+| *Analyzing the effect of Iceland's Financial Crisis* | *Top 5 countries that contribued the most immigrants to Canada from 1980 to 2013* |
