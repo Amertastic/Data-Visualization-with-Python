@@ -75,4 +75,8 @@ Using the Immigration to Canada dataset, visualizations were created to display 
 
 #### 04 - Waffle Charts Word Clouds and Regression Plots.ipynb
 
+This Python notebook explored the Canadian immigration data from 1980 to 2013 using pandas and Matplotlib. It covered the creation of waffle charts, word clouds, and regression plots.
 
+|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis07-Word%20Cloud.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis08-Total%20Immigration%20to%20Canada.png" width="100%" height="100%"> | 
+|:--:|:--:| 
+| *"In the first 2000 words in Alice's Adventures in Wonderland, the most common words are Alice, said, little, Queen,"* | *"A complete scatter plot with a regression fit"* |
