@@ -94,3 +94,11 @@ Datasets used include San Francisco Police Department Incidents for 2016 and Can
 |<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis11-Choropleth%20Maps.png" width="50%" height="50%">| 
 |:--:| 
 | *"The choropleth map provides an easy way to visualize how a measurement varies across a geographic area, or it shows the level of variability within a region. Above is a Choropleth map of the world depicting immigration from various countries to Canada."* |
+
+#### 06 - Plotly Basics.ipynb
+
+This project explored the basics of creating Plotly charts using Plotly Graph Objects and Plotly Express, using the airline dataset to predict flight delays.
+
+|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/BubbleChart.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/PieChart.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/SunbustChart.png" width="100%" height="100%">| 
+|:--:|:--:|:--:| 
+| *Bubble Chart*| *Pie Chart*|*Sunbust Chart*|
