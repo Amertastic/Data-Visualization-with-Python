@@ -102,3 +102,12 @@ This project explored the basics of creating Plotly charts using Plotly Graph Ob
 |<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/BubbleChart.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/PieChart.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/SunbustChart.png" width="100%" height="100%">| 
 |:--:|:--:|:--:| 
 | *Bubble Chart*| *Pie Chart*|*Sunbust Chart*|
+
+#### 07 - Plotly and Dash Final Project.py
+
+Analyzed US domestic airline flights performance using Plotly and Dash, and implemented callback functions.
+
+|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis12-Dashboard.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis13-Dashboard.png" width="100%" height="100%"> | 
+|:--:|:--:| 
+| *"Yearly Airline Performance Report"* | *"Yearly Airline Delay Report"* |
+
